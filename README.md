@@ -1,6 +1,6 @@
 - 👋 Ola me chamo Vinicius
 - 👀 E atualmente encontrei minha paixão na programação,
-- 🌱 Atualmente estou estudando PHP Laravel e de vez enquando um pouco de Javascript,
+- 🌱 Estou estudando PHP Laravel e de vez enquando um pouco de Javascript,
 - 💞️ Sou apaixonado por jogos, e utilizo disso como auxilio para aprender a programar.
 - 📫 www.linkedin.com/in/vinicius5005
 
